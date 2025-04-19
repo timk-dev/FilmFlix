@@ -37,7 +37,7 @@ const Home = () => {
         method: 'GET',
         headers: {
         accept: 'application/json',
-        Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiN2YzMjA1YTE5MTQ1ZjlkM2Q3Y2M5NmQ1ZGFkZjZiMCIsIm5iZiI6MTcxOTAwOTQxOC45MDI0NDUsInN1YiI6IjY2NzVmZWQ1MjYzNWM3MjdlODE0NjczYyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.fPS9PzEcQ-WZHGNJMnRxrIDEgTWA-Taxuvm89CglTG0'
+        Authorization: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
         }
     };
 
