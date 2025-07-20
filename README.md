@@ -10,5 +10,5 @@ FilmFlix is a responsive movie streaming UI built with React, styled with CSS Gr
   * :electric_plug: Comprehensive Movie Search
 
 ## Original Site
-![FilmFlix](https://github.com/timk-dev/FilmFlix/blob/main/filmsite1.webp?raw=true)
 ![FilmFlix](https://github.com/timk-dev/FilmFlix/blob/main/filmsite2.webp?raw=true)
+![FilmFlix](https://github.com/timk-dev/FilmFlix/blob/main/filmsite1.webp?raw=true)
